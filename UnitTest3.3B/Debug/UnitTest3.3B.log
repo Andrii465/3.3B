@@ -1,0 +1,5 @@
+﻿  UnitTest3.3B.cpp
+C:\Users\Admin\source\repos\3.3B\3.3B\Money.cpp(67): warning C4172: returning address of local variable or temporary: t
+C:\Users\Admin\source\repos\3.3B\3.3B\Money.cpp(231): warning C4715: 'operator/': not all control paths return a value
+     Creating library C:\Users\Admin\source\repos\3.3B\Debug\UnitTest3.3B.lib and object C:\Users\Admin\source\repos\3.3B\Debug\UnitTest3.3B.exp
+  UnitTest3.3B.vcxproj -> C:\Users\Admin\source\repos\3.3B\Debug\UnitTest3.3B.dll
